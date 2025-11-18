@@ -30,6 +30,10 @@ Log Tail Emulator is a WordPress plugin that provides real-time monitoring of yo
 3. Ensure WP_DEBUG is enabled in your wp-config.php file
 4. Navigate to Tools > Log Tail to view your debug logs
 
+== Screenshots ==
+1. screenshot-1.png - Log tail example.
+1. screenshot-2.png - Example with filter.
+
 == Frequently Asked Questions ==
 
 = Why do I see "No logs found"? =

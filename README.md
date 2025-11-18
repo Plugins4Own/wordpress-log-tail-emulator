@@ -53,16 +53,11 @@ Perfect for developers, support teams, and anyone maintaining WordPress websites
 ## ❓ FAQ
  - Why am I seeing “No logs found”?
 
-Your WordPress debug mode might not be enabled. Add to `wp-config.php`:
-
-```php
-   define('WP_DEBUG', true);
-   define('WP_DEBUG_LOG', true);
-```
+> Your WordPress debug mode might not be enabled. Add to `wp-config.php`:
 
 - The plugin says “File does not exist”
 
-Ensure that `wp-content/debug.log` exists and is writable.
+> Ensure that `wp-content/debug.log` exists and is writable.
 
 🕘 Changelog
 1.0.8
