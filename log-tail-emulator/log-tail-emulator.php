@@ -3,7 +3,7 @@
  * Plugin Name: Log Tail Emulator
  * Plugin URI:  https://plugins4.own.pl/wordpress/log-tail-emulator
  * Description: Emulates tail -f function for debug.log file in WordPress.
- * Version:     1.1.2
+ * Version:     1.1.3
  * Author:      Plugins4.OWN.pl
  * Author URI:  https://plugins4.own.pl
  * License:     GPL-2.0-or-later
